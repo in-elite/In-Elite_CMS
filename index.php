@@ -1,0 +1,6 @@
+<?php
+/*
+	* 									In-Elite CMS
+	*/
+	
+?>
